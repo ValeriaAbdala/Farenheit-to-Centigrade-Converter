@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Practica1</string>
+    <string name="Degrees">Degrees</string>
+    <string name="Conversion">Conversion</string>
+    <string name="btn_convert">Convert to Cº</string>
+    <string name="Enter_the_Temperature_in_farenheit">Enter the temperature in farenheit:</string>
+    <string name="Write_here">Write here</string>
+    <string name="Only_numbers">Only numbers</string>
+    <string name="Result">%d Cº</string>
+</resources>

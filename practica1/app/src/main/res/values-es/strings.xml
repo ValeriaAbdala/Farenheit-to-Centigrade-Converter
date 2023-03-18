@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practica1</string>
+    <string name="Degrees">Grados</string>
+    <string name="Conversion">conversión</string>
+    <string name="btn_convert">Convertir a Cº</string>
+    <string name="Enter_the_Temperature_in_farenheit">Ingresa la temperatura en Farenheit:</string>
+    <string name="Write_here">Escribe aquí</string>
+    <string name="Only_numbers">Escribe un número</string>
+    <string name="Result">%d Cº</string>
+</resources>
